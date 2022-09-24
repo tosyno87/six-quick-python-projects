@@ -12,3 +12,5 @@ for pwd in range(number):
     for c in range(length):
         passwords += random.choice(chars)
     print(passwords)
+
+print("Hello World, what is up?")
